@@ -73,7 +73,7 @@ Ensure you have **Node.js 18+** installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/skyval.git
+git clone https://github.com/Skywalkie-cyber/Skyval.git
 cd skyval
 
 # Install dependencies
