@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo_256.png" alt="SkyVal Logo" width="128" />
+  <img src="root/logo_256.png" alt="SkyVal Logo" width="128" />
   <h1>SkyVal</h1>
   <p><strong>The Ultimate Desktop Companion & Tracker for Valorant</strong></p>
 
