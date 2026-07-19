@@ -89,7 +89,7 @@ npm run build
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the SkyVal Dev Team</p>
+  <p>Made with ❤️ by the SkyVal Dev Team(Skywalker)</p>
 </div>
 SkyVal — The Ultimate Valorant Companion App
 SkyVal is a blazingly fast, modern desktop companion application built from the ground up for competitive Valorant players. Designed to seamlessly integrate with your Riot Client without interrupting your gameplay, SkyVal gives you unprecedented access to live match data, in-depth player statistics, and real-time account tracking directly on your desktop.
