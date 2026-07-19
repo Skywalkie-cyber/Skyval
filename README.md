@@ -33,7 +33,7 @@ Unlike heavy web-based trackers that inject overlays, SkyVal securely communicat
 
 SkyVal is currently available for **Windows**.
 
-1. Navigate to the [Releases](#) tab on this GitHub repository.
+1. Navigate to the [Releases](https://github.com/Skywalkie-cyber/Skyval/releases) tab on this GitHub repository.
 2. Download the latest `SkyVal Setup.exe`.
 3. Run the installer. 
 4. Launch SkyVal! **Make sure your Riot Client or Valorant is open** so SkyVal can automatically connect and pull your data.
